@@ -1,4 +1,4 @@
-## **Password Generator with History and Strength Checker**
+# **Password Generator with History and Strength Checker**
 
 This project is a **Password Generator** tool designed to create secure, random passwords for users. The tool allows users to generate strong, random passwords, check their strength, and store previously generated passwords in a history log. The application also provides functionality to copy the generated password to the clipboard for easy use.
 
